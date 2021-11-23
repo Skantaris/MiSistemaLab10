@@ -1,6 +1,7 @@
 <?php
 require_once(__DIR__ . '/../Models/ClienteModel.php');
 require_once(__DIR__ . '/../Db/db.php');
+require_once(DIR . '/../Controllers/ClienteController.php');
 
 use \PHPUnit\Framework\TestCase;
 
